@@ -53,7 +53,7 @@ h1 {
 .answer {
   max-height: 0;
   overflow: hidden;
-  transition: max-height 0.5s;
+  transition: all 0.5s;
 }
 
 .imageBox {
